@@ -1,0 +1,55 @@
+<resources>
+
+
+    <string name="app_name">F!ND3R</string>
+    <string name="title_tab_details">About</string>
+    <string name="title_tab_map">Show Direct Place</string>
+    <string name="title_tab_favourites">Favourite List</string>
+    <string name="title_tab_search">New Search</string>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="maps_api_key" translatable="false">AIzaSyDo6e7ZL0HqkwaKN-GwKgqZnW03FhJNivQ</string>
+    <string name="places_api_key" translatable="false">AIzaSyBOSebPLxD2Px4zVv31kwmAQ1puJeK3Fz0</string>
+
+    <string name="clear_history_search">Clear Search List</string>
+    <string name="settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="no_favourite_place">No Favourites</string>
+    <string name="search_failed">The Search Failed</string>
+    <string name="no_results">No Places Found</string>
+    <string name="search_locked_1">The search is locked!</string>
+    <string name="search_locked_2">Please try again later</string>
+    <string name="no_location_access">Location access is required</string>
+    <string name="error">Error</string>
+    <string name="open">Open</string>
+    <string name="delete">Delete</string>
+    <string name="add_favourites">Add To Favourites List</string>
+    <string name="remove_favourites">Remove From Favourites List </string>
+    <string name="favourite_toggle">Favourite Toggle</string>
+    <string name="ok">OK</string>
+    <string name="enable_location">Enable Location</string>
+    <string name="enable_location_msg">Location is not enable. Do you want to go to settings menu?</string>
+    <string name="network_connection">Network Connection</string>
+    <string name="network_connection_msg">Network is not available. Please turn on WiFi or mobile data.</string>
+    <string name="cancel">Cancel</string>
+    <string name="location_error_1">Nothing find</string>
+    <string name="location_error_2">Please try again</string>
+    <string name="distance_km">%.2f km</string>
+    <string name="distance_mil">%.2f mil</string>
+    <string name="distance_type_km">Kilometers</string>
+    <string name="distance_type_mil">Miles</string>
+    <string name="summary_radius">Distanse:</string>
+    <string name="summary_remove_favourites">Clear favourite list</string>
+    <string name="title_distance_type">KM/MILES>>>>Chose</string>
+    <string name="title_search_radius">Distance around me</string>
+    <string name="title_remove_favourites">Clear Favourite List</string>
+    <string name="message_remove_favourites">Clear favourite list?</string>
+    <string name="yes">Yes?</string>
+    <string name="no">No!</string>
+    <string name="share">Share</string>
+    <string name="exit">Exit</string>
+    <string name="search_near_me">Search Near Me</string>
+
+    <string name="language">en_US</string>
+</resources>

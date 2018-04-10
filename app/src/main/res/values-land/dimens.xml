@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="icon_size">40dp</dimen>
+    <dimen name="favourite_icon_size">25dp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="small_text_size">16sp</dimen>
+</resources>

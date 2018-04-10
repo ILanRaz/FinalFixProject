@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/p_open"
+        android:title="@string/open"
+        />
+
+   <item
+        android:id="@+id/p_share"
+        android:title="@string/share"
+        />
+
+    <item
+        android:id="@+id/p_delete"
+        android:title="@string/delete"
+        android:visible="false"
+        />
+
+    <item
+        android:id="@+id/p_add_favourites"
+        android:title="@string/add_favourites"
+        android:visible="false"
+        />
+
+    <item
+        android:id="@+id/p_remove_favourites"
+        android:title="@string/remove_favourites"
+        android:visible="false"
+        />
+</menu>

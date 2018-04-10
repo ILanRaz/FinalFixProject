@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="icon_size">80dp</dimen>
+    <dimen name="favourite_icon_size">30dp</dimen>
+    <dimen name="text_size">22sp</dimen>
+    <dimen name="small_text_size">20sp</dimen>
+</resources>

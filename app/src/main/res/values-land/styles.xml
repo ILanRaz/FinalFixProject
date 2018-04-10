@@ -1,0 +1,7 @@
+<resources>
+
+
+ <style name="AppRatingBar" parent="Base.Widget.AppCompat.RatingBar.Small"/>
+
+
+</resources>
